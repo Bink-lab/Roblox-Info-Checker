@@ -10,7 +10,7 @@
 
 ###
 
-align="left">This project is made entirely with Go and is compiled with Go.<br><br>If you would like to use see more information about this project please head over to the [Wiki](https://github.com/Bink-lab/UsernameHistory/wiki)
+This project is made entirely with Go and is compiled with Go.<br><br>If you would like to use see more information about this project please head over to the [Wiki](https://github.com/Bink-lab/UsernameHistory/wiki)
 
 ###
 
